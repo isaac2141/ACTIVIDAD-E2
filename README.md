@@ -76,8 +76,12 @@ IS_c,IS_a,IS_c1,IS_a1,IS_c2,IS_a2,IS_c3,IS_a3 //==> Suma total de las monedas, s
 ## Instalación
 ### Descargar el repositorio
 ...
+1.- Clonar el repositorio en la maquina local.
+
 git clone http://github.com/isaac2141/ACTIVIDAD-E2.git
 ...
+2.- Ingresar al repositorio.
+
 cd ACTIVIDAD-E2
 ...
 ### Compilar y ejecutar
