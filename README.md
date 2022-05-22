@@ -2,21 +2,21 @@
 ## Información del Autor:
 `Autor: Gonzalez Sanchez Isaac Exequiel`
 
-'Correo: isaac.gonzalez.sanchez@utelvt.edu.ec'
+`Correo: isaac.gonzalez.sanchez@utelvt.edu.ec`
 
 ## Programas
 ### Comparación de dos números
 ### Descripcion del problema
 Este programa en C++ permite comparar dos numeros y determinar si son iguales, o uno es mayor.
 ### Funcionalidad
-...
+```
 float IS_x,IS_y;
-...
+```
 ### Salida
-...
+```
 si(IS_x==IS_y) //==> son iguales
 si (IS_x<IS_y) //==> y es el mayor, caso contrario x es mayor
-...
+```
 
 
 ### Suma de varios numeros
