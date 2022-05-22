@@ -5,9 +5,10 @@
 `Correo: isaac.gonzalez.sanchez@utelvt.edu.ec`
 
 ## Programas
+### GonzalezIsaac-Compara.cpp
 ### Comparación de dos números
 ### Descripcion del problema
-Este programa en C++ permite comparar dos numeros y determinar si son iguales, o uno es mayor.
+Este programa en C++ permite comparar dos numeros y determinar si son iguales, o si uno es mayor.
 ### Funcionalidad
 ```
 float IS_x,IS_y;
@@ -18,7 +19,7 @@ si(IS_x==IS_y) //==> son iguales
 si (IS_x<IS_y) //==> y es el mayor, caso contrario x es mayor
 ```
 
-
+###GonzalezIsaac-SumaN.cpp
 ### Suma de varios numeros
 ### Descripcion del problema
 Este programa en C++ permite determinar la suma de varios numeros.
@@ -32,7 +33,7 @@ float IS_S,IS_x;
 IS_S //==> La suma total de los numeros.
 ```
 
-
+### GonzalezIsaac-laedad.cpp
 ### Calculo de la edad
 ### Descripcion del problema
 Este programa en C++ permite calcular la edad de una persona.
@@ -45,7 +46,7 @@ int IS_dd,IS_mm,IS_yy,IS_dd1,IS_mm1,IS_yy1,IS_da,IS_ma,IS_ya;
 IS_ya,IS_ma,IS_da //==> Su Edad.
 ```
 
-
+### GonzalezIsaac-PuntoVenta.cpp
 ### Punto de venta
 ### Descripcion del problema
 Este programa en C++ permite determinar el valor a pagar por la compra de varios productos tomando en cuenta el IVA y su respectivo descuento.
@@ -59,7 +60,7 @@ float IS_A,IS_x,IS_vf,IS_IVA=0.12,IS_dsc,IS_Vb,IS_Vi,IS_Vd;
 IS_Vb,IS_Vi,IS_Vd,IS_Vf //==> Valor final a pagar, valor bruto, IVA y descuento.
 ```
 
-
+### GonzalezIsaac-CuentaMoneda.cpp
 ### Contador de monedas
 ### Descripcion del problema
 Este programa en C++ permite determinar la suma de varias monedas y de sus respectivas denominaciones.
@@ -83,6 +84,7 @@ git clone http://github.com/isaac2141/ACTIVIDAD-E2.git
 ```
 2.- Ingresar al repositorio.
 
+cd ~
 cd ACTIVIDAD-E2
 ```
 ### Compilar y ejecutar
