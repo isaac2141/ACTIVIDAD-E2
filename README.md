@@ -1,6 +1,6 @@
 # Programas en C++ de Gonzalez Sanchez Isaac Exequiel
 ## Información del Autor:
-'Autor: Gonzalez Sanchez Isaac Exequiel'
+`Autor: Gonzalez Sanchez Isaac Exequiel`
 
 'Correo: isaac.gonzalez.sanchez@utelvt.edu.ec'
 
