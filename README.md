@@ -71,7 +71,7 @@ float IS_x,IS_a=0,IS_a1=0,IS_a2=0,IS_a3=0;
 ### Salida
 ```
 IS_c,IS_a,IS_c1,IS_a1,IS_c2,IS_a2,IS_c3,IS_a3 //==> Suma total de las monedas, suma de las monedas segun su denominacion por separado.
-
+```
 
 ## Instalación
 ### Descargar el repositorio
@@ -79,6 +79,7 @@ IS_c,IS_a,IS_c1,IS_a1,IS_c2,IS_a2,IS_c3,IS_a3 //==> Suma total de las monedas, s
 1.- Clonar el repositorio en la maquina local.
 
 git clone http://github.com/isaac2141/ACTIVIDAD-E2.git
+```
 ```
 2.- Ingresar al repositorio.
 
@@ -91,7 +92,7 @@ g++ GonzalezIsaac-SumaN.cpp -o GonzalezIsaac-SumaN
 ```
 ./GonzalezIsaac-SumaN
 //==> Asi sucesivamente con los demas programas.
-
+```
 
 
 
