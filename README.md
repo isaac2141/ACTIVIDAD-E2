@@ -19,7 +19,7 @@ si(IS_x==IS_y) //==> son iguales
 si (IS_x<IS_y) //==> y es el mayor, caso contrario x es mayor
 ```
 
-###GonzalezIsaac-SumaN.cpp
+### GonzalezIsaac-SumaN.cpp
 ### Suma de varios numeros
 ### Descripcion del problema
 Este programa en C++ permite determinar la suma de varios numeros.
