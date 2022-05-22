@@ -88,6 +88,7 @@ cd ACTIVIDAD-E2
 ### Compilar y ejecutar
 ```
 g++ GonzalezIsaac-SumaN.cpp -o GonzalezIsaac-SumaN
+//==> Asi sucesivamente con los demas programas.
 ```
 ```
 ./GonzalezIsaac-SumaN
