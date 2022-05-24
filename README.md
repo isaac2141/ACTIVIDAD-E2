@@ -30,8 +30,8 @@ float IS_x,IS_y;
 ```
 #### Salida
 ```
-si(IS_x==IS_y) //==> son iguales
-si (IS_x<IS_y) //==> y es el mayor, caso contrario x es mayor
+si(IS_x==IS_y) //==> son iguales.
+si (IS_x<IS_y) //==> y es el mayor, caso contrario x es mayor.
 ```
 ### GonzalezIsaac-CuentaMoneda.cpp
 ```
@@ -77,7 +77,7 @@ https://f-droid.org/
 ```
 2.- "Dentro de la aplicacion F-droid".
 ```
-Descargar la termina (Termux) junto a todas sus actualizaciones
+Descargar la terminal(Termux) junto a todas sus actualizaciones.
 ```
 3.- Ingresar a la terminal(Termux) e instalar os paquetes de datos necesarios.
 ```
@@ -99,7 +99,7 @@ git clone http://github.com/isaac2141/ACTIVIDAD-E2.git
 cd ~
 cd ACTIVIDAD-E2
 ```
-### Compilar y ejecutar
+### Compilar y ejecutar.
 ```
 g++ GonzalezIsaac-SumaN.cpp -o GonzalezIsaac-SumaN
 //==> Asi sucesivamente con los demas programas.
